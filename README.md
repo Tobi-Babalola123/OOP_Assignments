@@ -1,8 +1,3 @@
-=======
-Here's the content you can include in your `README.md` file:
-
----
-
 # **Assignment Details**
 
 ## Description
@@ -45,12 +40,6 @@ This repository contains solutions for the Object-Oriented Programming (OOP) ass
      ```
 
 4. Follow the prompts or observe the outputs in the terminal.
-
----
-
-## License
-
-This project is licensed under the MIT License. You are free to use, modify, and distribute the code as per the license terms.
 
 ---
 
